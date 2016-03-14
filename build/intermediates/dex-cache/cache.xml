@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha1\support-annotations-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="D:\workspace_android\GirlyIdol2\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha1-a92c4fe468b7093bd0109d0b548387a9b3446cbe.jar" />
+    </item>
+    <item
+        jar="D:\workspace_android\GirlyIdol2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9684c95278dc45a142d7de3db9e7e39aa520e1e0">
+        <dex dex="D:\workspace_android\GirlyIdol2\app\build\intermediates\pre-dexed\debug\classes-6b90808e5ebb7d42ca03a7489ed6aa1be1d1be11.jar" />
+    </item>
+    <item
+        jar="D:\workspace_android\GirlyIdol2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ed88e1f0c8fbf66e1da918545f0a6790f893bceb">
+        <dex dex="D:\workspace_android\GirlyIdol2\app\build\intermediates\pre-dexed\debug\classes-6340571108191e782e8eceef047e0d3201528a99.jar" />
+    </item>
+    <item
+        jar="C:\Users\acer\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\workspace_android\GirlyIdol2\app\build\intermediates\pre-dexed\debug\okio-1.6.0-9bf5f7d61a61faa245163021829b01bfcf9be68d.jar" />
+    </item>
+    <item
+        jar="C:\Users\acer\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\converter-gson\2.0.0-beta2\392c3d09e0f5e7087544093cc0cb23bb9c7af5fa\converter-gson-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="D:\workspace_android\GirlyIdol2\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.0-beta2-24191babda0155f3a3f5d4252f16e19006242e4e.jar" />
+    </item>
+    <item
+        jar="C:\Users\acer\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\2.0.0-beta2\880d9e0997b2d1bfc98e0d121ced33ee5d04aac4\retrofit-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="D:\workspace_android\GirlyIdol2\app\build\intermediates\pre-dexed\debug\retrofit-2.0.0-beta2-dfdea897c1e17e8b30ddfb6a61e87953062100b6.jar" />
+    </item>
+    <item
+        jar="D:\workspace_android\GirlyIdol2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\libs\internal_impl-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="D:\workspace_android\GirlyIdol2\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha1-110d9cc80a45fd965c7c9690b8aedca6857b15a5.jar" />
+    </item>
+    <item
+        jar="C:\Users\acer\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.0.1\b34c1f2d993044656e87f88970b6818e99e886ba\okhttp-3.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="D:\workspace_android\GirlyIdol2\app\build\intermediates\pre-dexed\debug\okhttp-3.0.1-f501199a952296622558fea7c30dbcfdd1fc1bc7.jar" />
+    </item>
+    <item
+        jar="C:\Users\acer\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.0.14\898f9ab61e2a23afd615f0b0389478bec86f49f9\rxjava-1.0.14.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="898f9ab61e2a23afd615f0b0389478bec86f49f9">
+        <dex dex="D:\workspace_android\GirlyIdol2\app\build\intermediates\pre-dexed\debug\rxjava-1.0.14-247a0d848b9e52d99739ab30a4ef7bafa05cea77.jar" />
+    </item>
+    <item
+        jar="C:\Users\acer\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="D:\workspace_android\GirlyIdol2\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0-ae2d7ee4f951214f15f74200123d8211b20afbdd.jar" />
+    </item>
+    <item
+        jar="C:\Users\acer\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\workspace_android\GirlyIdol2\app\build\intermediates\pre-dexed\debug\gson-2.3.1-bf76360812d7cca5d491934a30a92b942f788066.jar" />
+    </item>
+    <item
+        jar="C:\Users\acer\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.0-beta4\739e00dea1f0ac04fdb9b6160d667e23cc50a791\retrofit-2.0.0-beta4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="739e00dea1f0ac04fdb9b6160d667e23cc50a791">
+        <dex dex="D:\workspace_android\GirlyIdol2\app\build\intermediates\pre-dexed\debug\retrofit-2.0.0-beta4-cbee146e84c75cc6684e81952d9377d8e34693d6.jar" />
+    </item>
+    <item
+        jar="D:\workspace_android\GirlyIdol2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a6af5beedc2e8c946abc3771525e2fed77439309">
+        <dex dex="D:\workspace_android\GirlyIdol2\app\build\intermediates\pre-dexed\debug\classes-5062dde4c48c5399cb2eedff05ba97b731011551.jar" />
+    </item>
+    <item
+        jar="D:\workspace_android\GirlyIdol2\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aa81bfe8c5cc88c2472ca936ae71f0c3dd1766df">
+        <dex dex="D:\workspace_android\GirlyIdol2\app\build\intermediates\pre-dexed\debug\classes-6b2dea158ebc71b079acec20658adbe79e2cf458.jar" />
+    </item>
+    <item
+        jar="C:\Users\acer\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="D:\workspace_android\GirlyIdol2\app\build\intermediates\pre-dexed\debug\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2-5ea095b0c584d714761013b18db83a94c252f7a5.jar" />
+    </item>
+    <item
+        jar="D:\workspace_android\GirlyIdol2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="D:\workspace_android\GirlyIdol2\app\build\intermediates\pre-dexed\debug\classes-a376d972d98c80650e8dc9f41b30ab16df46bbdb.jar" />
+    </item>
+
+</items>
